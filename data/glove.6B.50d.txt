@@ -1,0 +1,5 @@
+link to download glove.6B.50d
+
+https://drive.google.com/open?id=181s-e-JSSHQC-TLobmzkt01suzLhW0pH
+
+download and put it into data folder
